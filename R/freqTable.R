@@ -1,6 +1,6 @@
 
 
-#' Frequency table
+#' Frequency table ,
 #'
 #' @description Creates 1-dimensional or 2-dimensional frequency tables
 #' @param df a data.frame containing var1 and var2
